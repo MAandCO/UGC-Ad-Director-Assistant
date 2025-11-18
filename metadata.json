@@ -1,0 +1,7 @@
+{
+  "name": "UGC Ad Director Assistant",
+  "description": "An AI-powered assistant to conceptualize, generate, and direct User-Generated Content (UGC) style video ads. It uses Gemini to analyze products, generate creative concepts, produce photorealistic opening frames, and direct a final video ad with Veo.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
